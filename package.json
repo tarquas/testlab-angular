@@ -11,7 +11,7 @@
     "main"  : "./lib/v0/testlab-angular.js",
 
     "dependencies" : {
-        "testlab" : "^0.1.0",
+        "testlab" : "^0.1.0"
     },
     
     "files" : [
@@ -36,7 +36,7 @@
         "tests",
         "testing",
         "angular",
-        "angularjs",
+        "angularjs"
     ],
 
     "author" : {
