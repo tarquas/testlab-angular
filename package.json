@@ -1,0 +1,54 @@
+{
+    "name"    : "testlab-angular",
+    "version" : "0.1.0",
+
+    "description" : "TestLab Plugin for AngularJS Web Applications",
+
+    "license" : "MIT",
+
+    "homepage" : "http://prywit.com/projects/testlab/",
+    
+    "main"  : "./lib/v0/testlab-angular.js",
+
+    "dependencies" : {
+        "testlab" : "^0.1.0",
+    },
+    
+    "files" : [
+        "./lib/v0"
+    ],
+
+    "bugs" : {
+        "url"   : "https://github.com/tarquas/testlab-angular/issues",
+        "email" : "tarquas@gmail.com"
+    },
+
+    "directories" : {
+        "lib" : "./lib"
+    },
+    
+    "keywords" : [
+        "e2e",
+        "mocha",
+        "phantom",
+        "phantomjs",
+        "qa",
+        "tests",
+        "testing",
+        "angular",
+        "angularjs",
+    ],
+
+    "author" : {
+        "name"  : "Taras Mykhailovych",
+        "email" : "tarquas@gmail.com",
+        "url"   : "http://prywit.com/tarquas/"
+    },
+
+    "contributors" : [ ],
+
+    "repository" : {
+        "type" : "git",
+        "url"  : "http://github.com/tarquas/testlab-angular.git"
+    }
+}
